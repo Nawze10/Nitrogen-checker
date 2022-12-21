@@ -1,0 +1,6 @@
+## Installation
+* Installez [Python](https://www.python.org/downloads/) Puis
+* Ouvrez un cmd dans le fichier (https://cdn.discordapp.com/attachments/943541118941950042/946154878391156736/unknown.png)
+* Entrez `pip install -r requirements.txt` puis appuyez sur Entrée
+* Ensuite entrez `py -3 main.py` et pressez la touche Entrée
+* Vous voila sur le générateur, vous n'avez plus qu'à suivre les instructions.
